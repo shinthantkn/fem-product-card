@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution](https://your-solution-url.com)
+- [Solution](https://www.frontendmentor.io/solutions-product-preview-card-component-with-flexbox-XIzHCvD_va)
 - [Live Site](https://stk-product-card.netlify.app)
 
 ## My process
