@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@700&family=Montserrat:wght@500;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:wght@700&family=Montserrat:wght@500;700&display=swap");
 
 /* makes sizing simpler */
 
@@ -42,7 +42,8 @@ p {
   height: 450px;
 }
 
-.image-card, .product-info-card {
+.image-card,
+.product-info-card {
   width: 300px;
   height: 450px;
 }
@@ -131,7 +132,8 @@ p {
     height: 610px;
   }
 
-  .image-card, .product-info-card {
+  .image-card,
+  .product-info-card {
     width: 100%;
     height: auto;
   }
@@ -151,15 +153,15 @@ p {
 }
 
 :root {
-    /* Colors */
-    --dark-cyan: hsl(158, 36%, 37%);
-    --cream: hsl(30, 38%, 92%);
+  /* Colors */
+  --dark-cyan: hsl(158, 36%, 37%);
+  --cream: hsl(30, 38%, 92%);
 
-    --very-dark-blue: hsl(212, 21%, 14%);
-    --dark-grayish-blue: hsl(228, 12%, 48%);
-    --white: hsl(0, 0%, 100%);
+  --very-dark-blue: hsl(212, 21%, 14%);
+  --dark-grayish-blue: hsl(228, 12%, 48%);
+  --white: hsl(0, 0%, 100%);
 
-    /* Fonts */
-    --montserrat: 'Montserrat', sans-serif;
-    --fraunces: 'Fraunces', serif;
+  /* Fonts */
+  --montserrat: "Montserrat", sans-serif;
+  --fraunces: "Fraunces", serif;
 }
